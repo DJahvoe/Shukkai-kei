@@ -14,7 +14,7 @@
 
 		<!-- Custom fonts for this template-->
 		<link
-			href="/public/vendor/admin/fontawesome-free/css/all.min.css"
+			href="../../public/vendor/admin/fontawesome-free/css/all.min.css"
 			rel="stylesheet"
 			type="text/css"
 		/>
@@ -24,11 +24,11 @@
 		/>
 
 		<!-- Custom styles for this template-->
-		<link href="/public/css/admin/style.min.css" rel="stylesheet" />
+		<link href="../../public/css/admin/style.min.css" rel="stylesheet" />
 
 		<!-- Custom styles for this page -->
 		<link
-			href="/public/vendor/admin/datatables/dataTables.bootstrap4.min.css"
+			href="../../public/vendor/admin/datatables/dataTables.bootstrap4.min.css"
 			rel="stylesheet"
 		/>
 	</head>
@@ -80,26 +80,26 @@
 		{% include '/partials/dashboard/logout_modal.volt' %}
 	</body>
 	<!-- Bootstrap core JavaScript-->
-	<script src="/public/vendor/admin/jquery/jquery.min.js"></script>
-	<script src="/public/vendor/admin/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="../../public/vendor/admin/jquery/jquery.min.js"></script>
+	<script src="../../public/vendor/admin/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 	<!-- Core plugin JavaScript-->
-	<script src="/public/vendor/admin/jquery-easing/jquery.easing.min.js"></script>
+	<script src="../../public/vendor/admin/jquery-easing/jquery.easing.min.js"></script>
 
 	<!-- Custom scripts for all pages-->
-	<script src="/public/js/admin/sb-admin-2.min.js"></script>
+	<script src="../../public/js/admin/sb-admin-2.min.js"></script>
 
 	<!-- Page level plugins -->
-	<script src="/public/vendor/admin/chart.js/Chart.min.js"></script>
+	<script src="../../public/vendor/admin/chart.js/Chart.min.js"></script>
 
 	<!-- Page level custom scripts -->
-	<script src="/public/js/admin/demo/chart-area-demo.js"></script>
-	<script src="/public/js/admin/demo/chart-pie-demo.js"></script>
+	<script src="../../public/js/admin/demo/chart-area-demo.js"></script>
+	<script src="../../public/js/admin/demo/chart-pie-demo.js"></script>
 
 	<!-- Page level plugins -->
-	<script src="/public/vendor/admin/datatables/jquery.dataTables.min.js"></script>
-	<script src="/public/vendor/admin/datatables/dataTables.bootstrap4.min.js"></script>
+	<script src="../../public/vendor/admin/datatables/jquery.dataTables.min.js"></script>
+	<script src="../../public/vendor/admin/datatables/dataTables.bootstrap4.min.js"></script>
 
 	<!-- Page level custom scripts -->
-	<script src="/public/js/admin/demo/datatables-demo.js"></script>
+	<script src="../../public/js/admin/demo/datatables-demo.js"></script>
 </html>

@@ -1,4 +1,4 @@
-a:3:{i:0;s:2948:"<!DOCTYPE html>
+a:3:{i:0;s:2963:"<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8" />
@@ -15,13 +15,13 @@ a:3:{i:0;s:2948:"<!DOCTYPE html>
 		<!-- <link rel="shortcut icon" type="image/x-icon" href="<?= $this->url->get('img/favicon.ico') ?>"/> -->
 		<!-- Bootstrap core CSS -->
 		<link
-			href="/public/vendor/app/bootstrap/css/bootstrap.min.css"
+			href="../../public/vendor/app/bootstrap/css/bootstrap.min.css"
 			rel="stylesheet"
 		/>
 
 		<!-- Custom fonts for this template -->
 		<link
-			href="/public/vendor/app/fontawesome-free/css/all.min.css"
+			href="../../public/vendor/app/fontawesome-free/css/all.min.css"
 			rel="stylesheet"
 		/>
 		<link
@@ -36,7 +36,7 @@ a:3:{i:0;s:2948:"<!DOCTYPE html>
 		/>
 
 		<!-- Custom styles for this template -->
-		<link href="/public/css/app/style.min.css" rel="stylesheet" />
+		<link href="../../public/css/app/style.min.css" rel="stylesheet" />
 	</head>
 	<body>
 		<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
@@ -81,7 +81,7 @@ a:3:{i:0;s:2948:"<!DOCTYPE html>
 		</div>
 	</div>
 </nav>
- ";s:7:"content";a:1:{i:0;a:4:{s:4:"type";i:357;s:5:"value";s:1:" ";s:4:"file";s:91:"D:\DeveloperTools\xamppREINSTALL\htdocs\_Phalcon\final-project-individu/app/views/\app.volt";s:4:"line";i:42;}}i:1;s:2128:" <hr />
+ ";s:7:"content";a:1:{i:0;a:4:{s:4:"type";i:357;s:5:"value";s:1:" ";s:4:"file";s:91:"D:\DeveloperTools\xamppREINSTALL\htdocs\_Phalcon\final-project-individu/app/views/\app.volt";s:4:"line";i:42;}}i:1;s:2153:" <hr />
 
 <!-- Footer -->
 <footer>
@@ -141,14 +141,14 @@ a:3:{i:0;s:2948:"<!DOCTYPE html>
 	></script>
 
 	<!-- Bootstrap core JavaScript -->
-	<script src="/public/vendor/app/jquery/jquery.min.js"></script>
-	<script src="/public/vendor/app/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="../../public/vendor/app/jquery/jquery.min.js"></script>
+	<script src="../../public/vendor/app/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 	<!-- Contact Form JavaScript -->
-	<script src="/public/js/app/jqBootstrapValidation.js"></script>
-	<script src="/public/js/app/contact_me.js"></script>
+	<script src="../../public/js/app/jqBootstrapValidation.js"></script>
+	<script src="../../public/js/app/contact_me.js"></script>
 
 	<!-- Custom scripts for this template -->
-	<script src="/public/js/app/clean-blog.min.js"></script>
+	<script src="../../public/js/app/clean-blog.min.js"></script>
 </html>
 ";}
